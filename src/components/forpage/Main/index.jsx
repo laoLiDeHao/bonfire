@@ -6,6 +6,6 @@ export default function Mainarea(){
 
 
   return <div className={st.mainarea}>
-    <h1>Main area</h1>
+    <div className={st.title}>Bonfire</div>
   </div>
 }
